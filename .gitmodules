@@ -1,0 +1,4 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/saberdy/saberdy.github.io.git
+	branch = master

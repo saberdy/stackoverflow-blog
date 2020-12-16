@@ -1,4 +1,4 @@
-baseURL = "saberdy.github.io"
+baseURL = "https://saberdy.github.io"
 languageCode = "en-us"
 title = "Stack Overflow Survey Results"
 theme = "ananke"

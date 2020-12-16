@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Stack Overflow Survey Results</title>
+    <link>https://saberdy.github.io/posts/</link>
+    <description>Recent content in Posts on Stack Overflow Survey Results</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2020 22:47:17 +0300</lastBuildDate>
+    
+	<atom:link href="https://saberdy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Glimps at Recent Technology Trends in Coding World</title>
+      <link>https://saberdy.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 15 Dec 2020 22:47:17 +0300</pubDate>
+      
+      <guid>https://saberdy.github.io/posts/my-first-post/</guid>
+      <description>Introdution Objectives Intention of this post is to find solid answers to the following questions:
+            Summary </description>
+    </item>
+    
+  </channel>
+</rss>

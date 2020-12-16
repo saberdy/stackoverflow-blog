@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://saberdy.github.io/categories/</loc>
+    <loc>https://saberdy.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-12-15T22:47:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberdy.github.io/posts/</loc>
+    <lastmod>2020-12-15T22:47:17+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://saberdy.github.io/</loc>
+    <lastmod>2020-12-15T22:47:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saberdy.github.io/categories/</loc>
   </url>
   
   <url>

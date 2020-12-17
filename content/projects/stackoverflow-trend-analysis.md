@@ -14,9 +14,9 @@ The intention of this post is to provide answers to the following questions:
 
 2. Which programming languages have been the most popular according to last 4 years' survey?
 
-3. What are the popular programming languages for Linux, Mac and Windows operating system users on 2020?
+3. What are the popular programming languages for Linux, Mac and Windows operating system users in 2020?
 
-4. Is there any pattern in the way developers prefer using a platform with a programming language, database, or a framework? What
+4. Is there any pattern in the way developers prefer using a platform with a programming language, a database, or a framework? What
    about a popular platform for a particular developer type?
 
 ![image from stack overflow website](/static/stackoverflow-map-2020.png "65000 respondent took part in this survey")
@@ -46,7 +46,7 @@ If there is an absolute winner of the most commonly used languages for the last 
 As midrangers in ranking, languages such as C/C++, Ruby, Go and Kotlin stand out. Further down the list one could observe a new emerging language such as Julia (1.0 version was released only in 2018).
 
 
-### What are the most popular programming languages for Linux, Mac and Windows users on 2020?
+### What are the most popular programming languages for Linux, Mac and Windows users in 2020?
 
 The figures in this section demonstrate the top 5 programming languages for Linux, Mac, and Microsoft Windows users.
 ![](/static/linux_users.png "linux users programming language preference")
@@ -55,7 +55,7 @@ Unsurprisingly, JavaScript has maintained it's stronghold as the most commonly u
    
 ![](/static/mac_users.png "mac users programming language preference")
 
-Although Python was not on top of the most favored programming languages list, it seems to be the second choice of linux users. In the table below, the popularity of JavaScript, HTML/CSS, SQL, and Java are identical in the ranking for Windows and Mac users.
+Although Python was not on top of the most favored programming languages list, it seems to be the second choice of Linux users. In the table below, the popularity of JavaScript, HTML/CSS, SQL, and Java are identical in the ranking for Windows and Mac users.
 
 |Windows            |   Mac     |       Linux |
 |:-----------------|:----------|:----------|
@@ -67,9 +67,9 @@ Although Python was not on top of the most favored programming languages list, i
 
 ![](/static/win_users.png "microsoft windows users programming language preference")
 
-### Is there any pattern in the way developers prefer using a platform with a programming language, database, or a framework? What about a popular platform for a particular developer type? 
+### Is there any pattern in the way developers prefer using a platform with a programming language, a database, or a framework? What about a popular platform for a particular developer type? 
 
-Combination of platform and one of programming language, framework or developer type on 2017 indicates that AWS as platform is the winner (table below).
+The combination of a platform and one of a programming language, a framework or a developer type in 2017 indicates that AWS as a platform is the winner (table below).
 
 |                    | 2020                  | 2019                  | 2018               | 2017                      |
 |:-------------------|:----------------------|:----------------------|:-------------------|:--------------------------|
@@ -85,7 +85,7 @@ For 2018, 2019 and 2020 the coin is flipped for Linux if the combination of a pr
 | __Framework__ | jQuery  | jQuery  | Node.js | Node.js                   |
 | __Count__               | 8957    | 15956   | 11593   | 2938                      |
 
-Although Windows was the most popular operating system and JavaScript was the language of developers choice per sei, looking at the operating system combination with the programming language shows that JavaScript is still the preferred language of majority while Linux being the most popular operating system in all 4 years of study (table below).
+Although Windows was the most popular operating system and JavaScript was the language of developers choice per sei, looking at the operating system combination with the programming language shows that JavaScript is still the preferred language of the majority while Linux being the most popular operating system in all 4 years of the study (table below).
 
 
 |                    | 2020       | 2019       | 2018       | 2017                      |
@@ -94,7 +94,7 @@ Although Windows was the most popular operating system and JavaScript was the la
 | __Language__ | JavaScript | JavaScript | JavaScript | JavaScript                |
 | __Count__           | 15342      | 24558      | 17399      | 4204                      |
 
-This analysis and result tables prove that over last three years the majority of respondents prefered golden combinations of WebDevelopment&Linux for developer type, MySQL&Linux for database, and JavaScript&Linux for programming language consistently.
+This analysis proves that over last three years the majority of respondents prefered golden combinations of WebDevelopment&Linux for a developer type, MySQL&Linux for a database, and JavaScript&Linux for a programming language consistently.
 
 |                    | 2020   | 2019   | 2018   | 2017            |
 |:-------------------|:-------|:-------|:-------|:----------------|

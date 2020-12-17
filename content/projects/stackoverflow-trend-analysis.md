@@ -105,4 +105,4 @@ This analysis proves that over last three years the majority of respondents pref
 
 ## **Summary**
 
-This brief analysis shred light into what trends are in the programming world. Throughout this study we learned more about develpers, the way they use technology and which tools are the most common. Hopefully this will be helpful for students, hobbiests, teachers and junior programmers. For future analysis, more versatile studies could be considered thanks to the invaluable and public data from the [stack overflow annual developer survey](https://insights.stackoverflow.com/survey).
+This brief analysis shred light into what trends are in the programming world. Throughout this study we learned more about developers, the way they use technology and which tools are the most common. Hopefully this will be helpful for students, hobbiests, teachers and junior programmers. For future analysis, more versatile studies could be considered thanks to the invaluable and public data from the [stack overflow annual developer survey](https://insights.stackoverflow.com/survey).

@@ -8,7 +8,7 @@ draft: true
 
 ## **Objectives**
 
-Intention of this post is to provide answers to the following questions:
+The intention of this post is to provide answers to the following questions:
 
 1. What type of developers are among the top trends of recents years? How has it been varying year by year since 2017?
 
@@ -32,7 +32,7 @@ As it is seen in the figure above, for year 2020, web developers are approximate
 
 ### Which programming languages have been most popular according to last 4 years' survey?
 
-If there is an absolute winner of the most commonly used languages for the last couple of years, it is certainly JavaScript. HTML/CSS, SQL are the last 3 years' competitors of JavaScript whiles Java was in leading position on python over 2017 and 2018. This picture has changed in favor of Python for last two years. 
+If there is an absolute winner of the most commonly used languages for the last couple of years, it is certainly JavaScript. HTML/CSS, SQL are the last 3 years' competitors of JavaScript whiles Java was in leading position on Python over 2017 and 2018. This picture has changed in favor of Python for last two years. 
 
 
 |2017        |  2018     | 2019     | 2020     |
@@ -43,7 +43,7 @@ If there is an absolute winner of the most commonly used languages for the last 
 | C#         |SQL        |Python    |Python    |
 | Python     |Java       |Java      |Java      |
 
-As midrangers in ranking, languages such as C/C++, Ruby, Go and Kotlin stand out. Further down the list one could observe a new emerging language such as Julia where official 1.0 version was released only in 2018.
+As midrangers in ranking, languages such as C/C++, Ruby, Go and Kotlin stand out. Further down the list one could observe a new emerging language such as Julia (1.0 version was released only in 2018).
 
 
 ### What are the most popular programming languages for Linux, Mac and Windows users on 2020?
@@ -51,11 +51,11 @@ As midrangers in ranking, languages such as C/C++, Ruby, Go and Kotlin stand out
 The figures in this section demonstrate the top 5 programming languages for Linux, Mac, and Microsoft Windows users.
 ![](/static/linux_users.png "linux users programming language preference")
 
-Unsurprisingly, JavaScript has maintained it's stronghold as the most commonly used programming language for all operating system users. What is different though, is the presence of Python for Linux users. HTML/CSS and SQL are still more attractive than python for Microsoft Windows and Mac operators than Linux users.
+Unsurprisingly, JavaScript has maintained it's stronghold as the most commonly used programming language for all operating system users. What is different though, is the presence of Python for Linux users. HTML/CSS and SQL are still more attractive than Python for Microsoft Windows and Mac operators than Linux users.
    
 ![](/static/mac_users.png "mac users programming language preference")
 
-Although Python was not on top of the most loved programming languages list, it seems to be the second choice of linux users. In the table below, the popularity of JavaScript, HTML/CSS, SQL, and Java are identical in the ranking for Windows and Mac users.
+Although Python was not on top of the most favored programming languages list, it seems to be the second choice of linux users. In the table below, the popularity of JavaScript, HTML/CSS, SQL, and Java are identical in the ranking for Windows and Mac users.
 
 |Windows            |   Mac     |       Linux |
 |:-----------------|:----------|:----------|
@@ -77,8 +77,7 @@ Combination of platform and one of programming language, framework or developer 
 | __DevType__        |full-stack |full-stack | Back-end | Web |
 | __Count__          | 12530                 | 19477                 | 15308              | 4204                      |
 
-For 2018, 2019 and 2020 the coin is flipped for Linux if combination of programming language, database or developer type are considered. 
-
+For 2018, 2019 and 2020 the coin is flipped for Linux if the combination of a programming language, a database or a developer type are considered. 
 
 |                     | 2020    | 2019    | 2018    | 2017                      |
 |:--------------------|:--------|:--------|:--------|:--------------------------|
@@ -86,7 +85,7 @@ For 2018, 2019 and 2020 the coin is flipped for Linux if combination of programm
 | __Framework__ | jQuery  | jQuery  | Node.js | Node.js                   |
 | __Count__               | 8957    | 15956   | 11593   | 2938                      |
 
-Although Windows was the most popular operating system and JavaScript was the language of developers choice per sei, looking at operating system combination with programming language shows that JavaScript is still the preferred language of majority while Linux being the most loved operating system in all 4 years of study (table below).
+Although Windows was the most popular operating system and JavaScript was the language of developers choice per sei, looking at the operating system combination with the programming language shows that JavaScript is still the preferred language of majority while Linux being the most popular operating system in all 4 years of study (table below).
 
 
 |                    | 2020       | 2019       | 2018       | 2017                      |
@@ -95,7 +94,7 @@ Although Windows was the most popular operating system and JavaScript was the la
 | __Language__ | JavaScript | JavaScript | JavaScript | JavaScript                |
 | __Count__           | 15342      | 24558      | 17399      | 4204                      |
 
-This analysis and result tables in this section prove that majority of respondents love golden combinations of WebDevelopment&linux for developer type, MySQL&Linux for database, and JavaScript&Linux for programming language consistently in last three years.
+This analysis and result tables prove that over last three years the majority of respondents prefered golden combinations of WebDevelopment&Linux for developer type, MySQL&Linux for database, and JavaScript&Linux for programming language consistently.
 
 |                    | 2020   | 2019   | 2018   | 2017            |
 |:-------------------|:-------|:-------|:-------|:----------------|
@@ -106,4 +105,4 @@ This analysis and result tables in this section prove that majority of responden
 
 ## **Summary**
 
-This brief analysis shred light into what trends are in the programming world. Throughout this study we learned more about develpers, the way they use technology and which tools are the most loved ones. Hopefully this will be helpful for students, hobbiests, teachers and junior programmers. For future analysis, more versatile and wider studies could be considered thanks to the invaluable data from [stack overflow annaual developer survey](https://insights.stackoverflow.com/survey) which is publicly available.
+This brief analysis shred light into what trends are in the programming world. Throughout this study we learned more about develpers, the way they use technology and which tools are the most common. Hopefully this will be helpful for students, hobbiests, teachers and junior programmers. For future analysis, more versatile studies could be considered thanks to the invaluable and public data from the [stack overflow annual developer survey](https://insights.stackoverflow.com/survey).
